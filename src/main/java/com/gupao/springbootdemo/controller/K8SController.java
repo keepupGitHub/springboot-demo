@@ -22,6 +22,6 @@ public class K8SController {
         }catch(Exception e){
             e.printStackTrace();
         }
-        return "hello K8s <br/> 修改测试webhook触发jenkins自动构建2"+result;
+        return "hello K8s <br/> 修改测试webhook触发jenkins自动构建3"+result;
     }
 }
